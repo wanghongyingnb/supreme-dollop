@@ -1,10 +1,9 @@
 {
-    "name": "HerokuShell Rclone",
-    "description": "Bot to interface Heroku shell through Telegram (with Rclone)",
+    "name": "Heroku",
+    "description": "Bot to interface",
     "keywords": [
         "telegram",
         "shell",
-        "rclone",
         "heroku"
     ],
     "repository": "https://github.com/eliasbenb/HerokuShell-Rclone.git",
